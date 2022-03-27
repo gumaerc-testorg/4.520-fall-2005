@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 42dac2d8-e6ce-206a-9f62-a3ffea6df996
 resourcetype: Document
 title: emergence.pdf
 uid: 4b2d801a-5672-88b9-b65f-800c71aba250

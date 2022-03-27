@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 42dac2d8-e6ce-206a-9f62-a3ffea6df996
 resourcetype: Document
 title: palladio.pdf
 uid: 86b69a4d-295c-2ba7-80e1-a28f849f40db
