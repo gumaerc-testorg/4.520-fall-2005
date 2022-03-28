@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: 42dac2d8-e6ce-206a-9f62-a3ffea6df996
 ---
@@ -33,7 +34,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF ‑ 3.8 MB]({{< baseurl >}}/resources/lect1))
+({{< resource_link c05b8855-51da-8441-c33f-00d1b18f3bcf "PDF ‑ 3.8 MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,9 +52,9 @@ Shape Arithmetic
 Shape Rules
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect2))  
+({{< resource_link 0119aada-a3cb-70f5-a52c-ffd1bbe2fb44 "PDF" >}})  
   
-Example Computations ([PDF]({{< baseurl >}}/resources/examplecomp))
+Example Computations ({{< resource_link 5d065dd8-3333-fccd-b148-65f4900954d7 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ _Rule Application: Nondeterminism, Emergence, Labeling
 Parametric Design and Grammars
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect3))
+({{< resource_link 07eb8fda-11a3-5cf9-d58e-88485fd2c821 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,9 +102,9 @@ Decomposition and Meaning
 Examples: Ice Rays, Palladio
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect5))  
+({{< resource_link 63b961c0-18e4-d091-5f21-716672c75178 "PDF" >}})  
   
-Andrea Palladio ([PDF]({{< baseurl >}}/resources/palladio))
+Andrea Palladio ({{< resource_link 86b69a4d-295c-2ba7-80e1-a28f849f40db "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +132,7 @@ _Creative Design
 _Basic Grammars
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect7))
+({{< resource_link 6f46db37-a1ec-0307-dcb8-16f3e66881cc "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +146,7 @@ _
 Beyond Basic Grammars
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF ‑ 1.4 MB]({{< baseurl >}}/resources/lect8))
+({{< resource_link e9cbcf19-f1b6-3346-0b08-c72c8cad8523 "PDF ‑ 1.4 MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +162,7 @@ Shaper2D Computer Program
 Nondeterministic Shaper2D Computer Program
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect9))
+({{< resource_link 1fc1a63e-2c4c-6d0f-5a67-fdb57352b368 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +190,7 @@ Design Project Examples
 Emergence and Predictability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/emergence))
+({{< resource_link 4b2d801a-5672-88b9-b65f-800c71aba250 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
