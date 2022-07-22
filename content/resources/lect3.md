@@ -6,6 +6,7 @@ file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/07
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect3.pdf
 uid: 07eb8fda-11a3-5cf9-d58e-88485fd2c821
 ---
 This resource lists the lecture notes on shape grammar as per the topics covered in the course.
-

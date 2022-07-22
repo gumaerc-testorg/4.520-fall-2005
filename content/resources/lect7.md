@@ -6,6 +6,7 @@ file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/6f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect7.pdf
 uid: 6f46db37-a1ec-0307-dcb8-16f3e66881cc
 ---
 This resource lists the lecture notes on symmetry as per the topics covered in the course.
-

@@ -6,6 +6,7 @@ file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/1f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect9.pdf
 uid: 1fc1a63e-2c4c-6d0f-5a67-fdb57352b368
 ---
 This resource lists the lecture notes on hierarchy of shape grammars as per the topics covered in the course.
-

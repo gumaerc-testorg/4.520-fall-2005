@@ -6,6 +6,7 @@ file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/c0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect1.pdf
 uid: c05b8855-51da-8441-c33f-00d1b18f3bcf
 ---
 This resource lists the lecture notes on computational design as per the topics covered in the course.
-

@@ -6,6 +6,7 @@ file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/01
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect2.pdf
 uid: 0119aada-a3cb-70f5-a52c-ffd1bbe2fb44
 ---
 This resource lists the lecture notes on basic elements as per the topics covered in the course.
-

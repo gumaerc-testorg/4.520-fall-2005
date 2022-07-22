@@ -6,6 +6,7 @@ file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/4b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: emergence.pdf
 uid: 4b2d801a-5672-88b9-b65f-800c71aba250
 ---
 This resource lists the lecture notes on emergence and predictability as per the topics covered in the course.
-
