@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource lists the lecture notes on computational design as per
   the topics covered in the course.
-file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/c05b885551da8441c33f00d1b18f3bcf_lect1.pdf
+file: /ol-ocw-studio-app/courses/4-520-computational-design-i-theory-and-applications-fall-2005/c05b885551da8441c33f00d1b18f3bcf_lect1.pdf
 file_size: 4015177
 file_type: application/pdf
 learning_resource_types:

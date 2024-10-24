@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource lists the lecture notes on basic elements as per the topics
   covered in the course.
-file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/0119aadaa3cb70f5a52cffd1bbe2fb44_lect2.pdf
+file: /ol-ocw-studio-app/courses/4-520-computational-design-i-theory-and-applications-fall-2005/0119aadaa3cb70f5a52cffd1bbe2fb44_lect2.pdf
 file_size: 736570
 file_type: application/pdf
 learning_resource_types:
