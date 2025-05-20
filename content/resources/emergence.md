@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource lists the lecture notes on emergence and predictability
   as per the topics covered in the course.
-file: /ol-ocw-studio-app/courses/4-520-computational-design-i-theory-and-applications-fall-2005/4b2d801a567288b9b65f800c71aba250_emergence.pdf
+file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/4b2d801a567288b9b65f800c71aba250_emergence.pdf
 file_size: 531137
 file_type: application/pdf
 learning_resource_types:
