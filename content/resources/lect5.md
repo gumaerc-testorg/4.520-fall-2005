@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource lists the lecture notes on corpus of existing designs as
   per the topics covered in the course.
-file: /ol-ocw-studio-app/courses/4-520-computational-design-i-theory-and-applications-fall-2005/63b961c018e4d0915f21716672c75178_lect5.pdf
+file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/63b961c018e4d0915f21716672c75178_lect5.pdf
 file_size: 247087
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource lists the lecture notes on hierarchy of shape grammars
   as per the topics covered in the course.
-file: /ol-ocw-studio-app/courses/4-520-computational-design-i-theory-and-applications-fall-2005/1fc1a63e2c4c6d0f5a67fdb57352b368_lect9.pdf
+file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/1fc1a63e2c4c6d0f5a67fdb57352b368_lect9.pdf
 file_size: 186015
 file_type: application/pdf
 learning_resource_types:
